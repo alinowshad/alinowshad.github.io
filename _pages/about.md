@@ -7,14 +7,14 @@ redirect_from:
   - /about.html
 ---
 
-Hi, welcome to my webpage!
+Welcome to my webpage!  I'm currently a Ph.D student at the [School of Computer Science](https://cs.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/), honorably under the supervision of Prof. [Yinjun Wu](https://wuyinjun-1993.github.io/). Before that, I obtained my master's degree from the [Politecnico di Milano (Polytechnic University of Milan (polimi))](https://www.polimi.it/en/) in 2025.
+
+My research interests lie at the intersection of the data science, data management and machine learning (see the Research Overview page for more details).
 
 Recent News
 ======
-For those users that need more advanced functionality, the template also supports the following popular tools:
-- [MathJax](https://www.mathjax.org/) for mathematical equations
-- [Mermaid](https://mermaid.js.org/) for diagraming
-- [Plotly](https://plotly.com/javascript/) for plotting
+Comming Soon:
+- Comming soon
 
 Selected Publications
 ======
