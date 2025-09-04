@@ -9,12 +9,17 @@ redirect_from:
 
 Welcome to my webpage!  I'm currently a Ph.D student at the [School of Computer Science](https://cs.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/), honorably under the supervision of Prof. [Yinjun Wu](https://wuyinjun-1993.github.io/). Before that, I obtained my master's degree from the [Politecnico di Milano (Polytechnic University of Milan (polimi))](https://www.polimi.it/en/) in 2025.
 
-My research interests lie at the intersection of the data science, data management and machine learning (see the Research Overview page for more details).
+My research interests lie at the intersection of the data mining, data management and deep learning.
 
 Recent News
 ======
 Comming Soon:
-- Comming soon
+- August 2025 one paper accepted by Neurocomputing
+- August 2025 one paper accepted by Cluster Computing
+- March 2025 one paper accepted by Journal of Forecasting
+- January 2025 one paper accepted by International Journal of Data Science and Analytics
+- January 2024 one paper accepted by Expert Systems with Applications
+
 
 Selected Publications
 ======
