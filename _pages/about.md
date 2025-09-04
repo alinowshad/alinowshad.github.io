@@ -13,7 +13,6 @@ My research interests lie at the intersection of the data mining, data managemen
 
 Recent News
 ======
-Comming Soon:
 - August 2025 one paper accepted by Neurocomputing
 - August 2025 one paper accepted by Cluster Computing
 - March 2025 one paper accepted by Journal of Forecasting
