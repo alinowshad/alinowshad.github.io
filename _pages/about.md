@@ -29,5 +29,6 @@ Selected Publications
 
 Awards
 ======
-- Awarded the IYT (Invest Your Talent) Scholarship by Italy for my Master in Politecnico di Milano.
+- Awarded the IYT (Invest Your Talent) Scholarship by Italy for continuing Master in Politecnico di Milano.
 - Ranked 3rd in the Machine Learning competition held by Politecnico di Milano and Reply company.
+- Ranked 1st in the National RoboCup competition, line follower track.
