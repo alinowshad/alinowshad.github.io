@@ -26,3 +26,8 @@ Selected Publications
 - [Big time series data forecasting based on deep autoencoding and clustering](https://doi.org/10.1007/s10586-024-04909-2) (Cluster Computing 2025)
 - [Localized Global Time Series Forecasting Models Using Evolutionary Neighbor-Aided Deep Clustering Method](https://doi.org/10.1002/for.3263) (Journal of Forecasting 2025)
 - [A novel featurization methodology using JaGen algorithm for time series forecasting with deep learning techniques](https://doi.org/10.1016/j.eswa.2023.121279) (Expert Systems with Applications 2024)
+
+Awards
+======
+- Awarded the IYT (Invest Your Talent) Scholarship by Italy for my Master in Politecnico di Milano.
+- Ranked 3rd in the Machine Learning competition held by Politecnico di Milano and Reply company.
