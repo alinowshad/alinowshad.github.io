@@ -9,7 +9,7 @@ redirect_from:
 
 Welcome to my webpage!  I'm currently a Ph.D student at the [School of Computer Science](https://cs.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/), honorably under the supervision of Prof. [Yinjun Wu](https://wuyinjun-1993.github.io/). Before that, I obtained my master's degree from the [Politecnico di Milano (Polytechnic University of Milan (polimi))](https://www.polimi.it/en/) in 2025.
 
-My research interests lie at the intersection of the data mining, data management and deep learning.
+Primary Research Interests: My research interests primarily lie at the intersections of database systems, data science and AI. My goal is to apply AI techniques to optimize core performance aspects of database systems—such as indexing and retrieval—in order to enhance system efficiency and reduce the operational workload of DBAs. Beyond database performance optimization, I also study information retrieval with AI models, focusing on how they can improve semantic search, query interpretation, and relevance ranking across diverse structured and unstructured data. In addition, I further investigate similarity search in large databases, with time series as a key application domain. Here, my focus is on developing improved representation learning techniques that enable more effective pattern discovery, clustering, and analysis of large-scale diverse temporal data.
 
 Recent News
 ======
