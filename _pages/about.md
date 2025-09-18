@@ -13,6 +13,7 @@ Primary Research Interests: My research interests primarily lie at the intersect
 
 Recent News
 ======
+- <b> September 2025 </b> one paper accepted by Information Processing & Management (IP&M)
 - <b> August 2025 </b> one paper accepted by Neurocomputing
 - <b> August 2025 </b> one paper accepted by Cluster Computing
 - <b> March 2025 </b> one paper accepted by Journal of Forecasting
