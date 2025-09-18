@@ -30,6 +30,7 @@ Selected Publications
 
 Awards
 ======
+- Awarded the Study in China on Chinese government scholarships, (CGS) CSC Scholarship for continuing PhD in Peking University.
 - Awarded the IYT (Invest Your Talent) Scholarship by Italy for continuing Master in Politecnico di Milano.
 - Ranked 3rd in the Machine Learning competition held by Politecnico di Milano and Reply company.
 - Ranked 1st in the National RoboCup competition, line follower track.
