@@ -13,6 +13,7 @@ Primary Research Interests: My research interests primarily lie at the intersect
 
 Recent News
 ======
+- <b> May 2026 </b> one paper accepted by ICML
 - <b> September 2025 </b> one paper accepted by Information Processing & Management (IP&M)
 - <b> September 2025 </b> Started as PhD student at Peking University in the School of Computer Science
 - <b> August 2025 </b> one paper accepted by Neurocomputing
